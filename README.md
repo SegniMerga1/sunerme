@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Segni Merga  
 
-<!--
-**sunerme/sunerme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! 🚀  
 
-Here are some ideas to get you started:
+## ⚡ About Me
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF1493&center=true&vCenter=true&width=600&lines=Welcome+to+Segni's+GitHub;Fullstack+Developer;Spring+Boot+%26+React;Always+Learning;Building+Cool+Projects&loop=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Segni's GitHub stats](https://github-readme-stats.vercel.app/api?username=SegniMerga&show_icons=true&theme=tokyonight&count_private=true)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SegniMerga&theme=tokyonight)
+
+### 📌 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SegniMerga&layout=compact&theme=tokyonight)
