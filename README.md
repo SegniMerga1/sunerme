@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Segni Merga  G
+# 👋 Hi, I'm Segni Merga  Gu
 
 Welcome to my GitHub! 🚀  
 
